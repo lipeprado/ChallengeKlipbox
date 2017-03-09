@@ -1,0 +1,69 @@
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+
+  }
+
+ h1{
+     margin: 20px 0;
+     font-size: 80px !important;
+ }
+
+.allbox{
+    width: 100%;
+}
+
+.wrap-box{
+    width: 100%;
+}
+span{
+    color: white;
+}
+.border{
+    border: 1px solid rgb(124, 124, 124);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.box{
+    width: 100%;
+    margin-top: 50px;
+
+}
+.box-user{
+    text-align: center;
+    background-color: rgb(228, 228, 227);
+    padding:0 !important;
+    position: relative;
+
+}
+.box-user img{
+    width: 100%;
+    height: 200px;
+    border: 1px solid white;
+}
+
+.title-User{
+    font-size: 27px;
+    font-weight: bold;
+    color: #2bbbad;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    word-break: break-all;
+}
+
+
+
+.box-user .span{
+    position: absolute;
+    bottom: -30px;
+    right: 0;
+    width: 100%;
+    color: white;
+}
+.spann{
+    color: white !important;
+}
+a.button{
+    margin: 0 20px 0 0 !important;
+}
